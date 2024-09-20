@@ -7,3 +7,6 @@ if (media < 7){
 } else {
     alert(`Você Aprovou com media ${media.toFixed(2)}`)
 }
+
+
+console.log('codigo novo')
